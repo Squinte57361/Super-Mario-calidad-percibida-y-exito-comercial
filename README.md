@@ -15,7 +15,6 @@ La relación lineal entre Metascore válido y ventas es prácticamente nula (`r 
 | Archivo | Contenido |
 |---|---|
 | `Informe_Final_Super_Mario.docx` | Informe técnico: problema, datos, limpieza, EDA, estadística, modelos, evaluación, conclusiones y código explicado. |
-| `Presentacion_SuperMario_DataXperience.pptx` | Presentación editable para la sustentación. |
 | `Presentación Final Super Mario DataXperience.pdf` | Versión lista para visualizar o proyectar. |
 | `Super_Mario_Analisis_Final.ipynb` | Cuaderno reproducible para Google Colab/Jupyter con código completo. |
 | `super_mario_datos_limpios.csv` | Datos analíticos usados por el cuaderno. |
